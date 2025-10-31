@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Gale;Dorothy;;;
-FN:Dorothy Gale
-NICKNAME:Judy Garland
-ORG:The Wizard of Oz
-EMAIL;type=INTERNET;type=HOME;type=pref:dorothy.gale@wizard.oz
-TEL;type=CELL;type=VOICE;type=pref:+7 123 456-78-90
+N:Pacheco;Thalia;;;
+FN:Thalia Pacheco
+NICKNAME:T Pacheco
+ORG:Kennesaw State University: College of Computing and Software Engineering
+EMAIL;type=INTERNET;type=HOME;type=pref:thaliampacheco31@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+1 478 302 7017
 URL;type=pref:https://grigorykovalev.github.io/online-business-card/about/
 BDAY:1939-01-13
 X-SOCIALPROFILE;type=Telegram:DorothyGaleOfOz
